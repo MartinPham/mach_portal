@@ -6,6 +6,6 @@ https://bugs.chromium.org/p/project-zero/issues/detail?id=965
 
 1) Run project, wait until debug says the webserver (also the shell) is ready.
 
-2) Browse: http://127.0.0.1:8081 on your device (or http://(iphone ip):8081) on other device.
+2) Browse: http://127.0.0.1:8081 on your device (or http://(iphone-ip):8081) on other device.
 
 3) ![Enjoy it](http://i0.kym-cdn.com/photos/images/newsfeed/000/103/740/Me%20Gusta.png)
